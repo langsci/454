@@ -1,0 +1,63 @@
+% !TEX TS-program = xelatex
+% !TeX encoding = UTF-8
+% !TeX spellcheck = en_GB
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%% Template for ARTICLE or ABSTRACT  (Antonio Machicao y Priemer)
+%%% Compile: XeLaTeX BibLaTeX(Biber) XeLaTeX XeLaTeX
+%%%
+%%% Title: Table IPA Consonants
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+\documentclass[10pt]{standalone}
+\usepackage[ngerman,english]{babel}
+
+\usepackage{libertine}
+
+%\usepackage[noenc,safe]{tipa}
+%\usepackage{tipa}
+% \usepackage{langsci-textipa}
+\usepackage{adjustbox}
+
+\usepackage{xcolor}
+%\usepackage{color}
+\usepackage{colortbl}
+%\usepackage[hidelinks]{hyperref}
+
+\begin{document}
+	\begin{adjustbox}{max width=\textwidth}
+		\begin{tabular}{|p{0.1\textwidth}|c|c|c|c|c|c|c|c|c|c|c|c|c|}
+			\hline
+			& \tiny{Bilabial} & \tiny{Labiodental} & \tiny{Dental} & \tiny{Alveolar} & \tiny{Postalveolar} & \tiny{Retroflex} & \tiny{Palatal} & \tiny{Velar} & \tiny{Uvular} & \multicolumn{2}{|c|}{\tiny{Pharyngal}} & \multicolumn{2}{|c|}{\tiny{Glottal}} \\
+			%%%
+			\hline
+			\tiny{Plosives} & {p b} & & \multicolumn{3}{|c|}{{t d}} & {ʈ ɖ} & {c ɟ} & {k g} & {q \textsc{g}} &
+			& \cellcolor{lightgray} & {ʔ} & \cellcolor{lightgray} 	\\
+			%%%
+			\hline
+			\tiny{Nasals} & {m} & {ɱ} & \multicolumn{3}{|c|}{n} & {ɳ} & {ɲ} & {ŋ} & {\textsc{n}} & \multicolumn{2}{|c|}{\cellcolor{lightgray}} & \multicolumn{2}{|c|}{\cellcolor{lightgray}} \\
+			%%%
+			\hline
+			\tiny{Vibrants} & {\textsc{b}} & & \multicolumn{3}{|c|}{r} & & & \cellcolor{lightgray} & {\textsc{r}} & \multicolumn{2}{|c|}{} & \multicolumn{2}{|c|}{\cellcolor{lightgray}} \\
+			%%%
+			\hline
+			\tiny{Taps and Flaps} & & &  \multicolumn{3}{|c|}{ɾ} &  {ɽ} & & \cellcolor{lightgray} & & \multicolumn{2}{|c|}{} & \multicolumn{2}{|c|}{\cellcolor{lightgray}} \\
+			%%%
+			\hline
+			\tiny{Fricatives} & {ɸ β} & {f v} & {θ\ ð} & {s z} & {ʃ ʒ} & {ʂ ʐ} & {ç ʝ} & {x ɣ} & {χ ʁ} & \multicolumn{2}{|c|}{{ħ\ ʕ}} & \multicolumn{2}{|c|}{{h ɦ}} \\
+			%%%
+			\hline
+			\tiny{Lateral fricatives} & \cellcolor{lightgray} & \cellcolor{lightgray} & \multicolumn{3}{|c|}{{ɬ\ ɮ}} & & & & &  \multicolumn{2}{|c|}{\cellcolor{lightgray}} & \multicolumn{2}{|c|}{\cellcolor{lightgray}} \\
+			%%%
+			\hline
+			\tiny{Approximants} & & {ʋ} & \multicolumn{3}{|c|}{{ɹ}} & {ɻ} & {j} & {ɰ} & & \multicolumn{2}{|c|}{} & \multicolumn{2}{|c|}{\cellcolor{lightgray}} \\
+			%%%
+			\hline
+			\tiny{Lateral approximants} & \cellcolor{lightgray} & \cellcolor{lightgray} & \multicolumn{3}{|c|}{{l}} & {ɭ} & {ʎ} & \textsc{l} & & \multicolumn{2}{|c|}{\cellcolor{lightgray}} & \multicolumn{2}{|c|}{\cellcolor{lightgray}} \\
+			%%%
+			\hline
+		\end{tabular}
+	\end{adjustbox}
+\end{document}
+

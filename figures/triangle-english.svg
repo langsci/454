@@ -1,0 +1,546 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="589.23578"
+   height="436.59735"
+   id="svg2851"
+   version="1.1"
+   inkscape:version="0.48.2 r9819"
+   sodipodi:docname="triangle-english.svg">
+  <defs
+     id="defs2853">
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Mend"
+       style="overflow:visible">
+      <path
+         id="path3752"
+         style="font-size:12px;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6,-0.6)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lend"
+       style="overflow:visible">
+      <path
+         id="path3728"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleInL"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="TriangleInL"
+       style="overflow:visible">
+      <path
+         id="path3859"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
+         transform="scale(-0.8,-0.8)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lstart"
+       style="overflow:visible">
+      <path
+         id="path3725"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
+         transform="matrix(0.8,0,0,0.8,10,0)" />
+    </marker>
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective2859" />
+    <inkscape:perspective
+       id="perspective2869"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective4926"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3489"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Mend-4"
+       style="overflow:visible">
+      <path
+         id="path3752-3"
+         style="font-size:12px;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6,-0.6)" />
+    </marker>
+    <inkscape:perspective
+       id="perspective3671"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3699"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3736"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Mend-49"
+       style="overflow:visible">
+      <path
+         id="path3752-2"
+         style="font-size:12px;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6,-0.6)" />
+    </marker>
+    <inkscape:perspective
+       id="perspective3812"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3812-6"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3849"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3885"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.979899"
+     inkscape:cx="151.25348"
+     inkscape:cy="242.77462"
+     inkscape:document-units="px"
+     inkscape:current-layer="g3933"
+     showgrid="true"
+     inkscape:window-width="1766"
+     inkscape:window-height="967"
+     inkscape:window-x="75"
+     inkscape:window-y="22"
+     inkscape:window-maximized="0"
+     showguides="false"
+     inkscape:guide-bbox="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid2942"
+       empspacing="5"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="-20.671999,350.368"
+       id="guide3773" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="194.328,413.93943"
+       id="guide3775" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="393.61371,370.368"
+       id="guide3777" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="-12.814856,196.79657"
+       id="guide3779" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata2856">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-44.06486,-273.53323)">
+    <path
+       style="fill:#f3ebe0;fill-opacity:1;stroke:#f3ebe0;stroke-width:1.78600001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       d="m 35.0697,341.90486 c -9.868719,13.56164 -23.513092,28.77343 -32.9335128,42.45973 187.5049728,-1.80512 375.0952028,0.43786 562.6333628,0.0449 -6.6194,-9.73579 -29.26486,-39.20981 -31.70878,-42.527 -165.99083,0.0298 -332.03116,-0.11905 -497.99107,0.0223 l 0,3e-5 z"
+       id="path5205"
+       transform="translate(53.392861,273.53323)"
+       sodipodi:nodetypes="cccccc" />
+    <path
+       style="fill:#e0e0f3;fill-opacity:1;stroke:#e0e0f3;stroke-width:1.78571427;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       d="m 109.4447,241.54771 c -11.471731,15.69441 -23.431737,31.26312 -34.553572,46.98661 139.531252,0 279.062502,0 418.593752,0 -10.62763,-15.84056 -22.7546,-31.31708 -33.99554,-46.98661 -116.63717,-0.11159 -233.41163,-0.11159 -350.04464,0 z"
+       id="path5201"
+       transform="translate(53.392861,273.53323)" />
+    <path
+       style="fill:#e0e0f3;fill-opacity:1;stroke:#e0e0f3;stroke-width:1.78571427;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       d="m 284.84649,141.14593 c -33.72149,0.0521 -67.49247,-0.0744 -101.18304,0.0893 -11.47396,15.76976 -23.62197,31.48997 -34.66518,47.29911 90.0215,-0.16646 182.07121,1.1733 272.08728,0.19957 -10.17336,-14.81037 -24.19419,-32.75562 -35.16764,-47.61029 -33.69047,0.007 -67.38095,0.0149 -101.07142,0.0223 l 0,1e-5 z"
+       id="path5203"
+       transform="translate(53.392861,273.53323)"
+       sodipodi:nodetypes="ccccccc" />
+    <path
+       style="fill:#ffffff;fill-opacity:0;stroke:#000000;stroke-width:2.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       d="M 54.642861,658.51256 338.82217,274.78323 619.64287,658.19696 54.642861,658.51256 z"
+       id="rect2816"
+       sodipodi:nodetypes="cccc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2.80714154;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 88.579951,613.51256 c 498.018619,0 498.018619,0 498.018619,0"
+       id="path3597" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2.59554791;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 124.9721,563.51256 c 425.77007,0 425.77007,0 425.77007,0"
+       id="path3597-8" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2.36065722;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 162.11693,513.51256 c 352.19474,0 352.19474,0 352.19474,0"
+       id="path3597-8-4" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2.0944593;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 199.02635,463.51256 c 277.24317,0 277.24317,0 277.24317,0"
+       id="path3597-8-4-3" />
+    <text
+       xml:space="preserve"
+       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Nimbus Sans L;-inkscape-font-specification:Nimbus Sans L"
+       x="336.78799"
+       y="592.89191"
+       id="text3593-1"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3595-4"
+         x="336.78799"
+         y="592.89191"
+         style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;font-family:Nimbus Sans L;-inkscape-font-specification:Nimbus Sans L">Similar grammar, concepts, and word order</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Nimbus Sans L;-inkscape-font-specification:Nimbus Sans L"
+       x="336.97198"
+       y="483.51254"
+       id="text3593-8"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3595-9"
+         x="339.19073"
+         y="483.51254"
+         style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;font-family:Nimbus Sans L;-inkscape-font-specification:Nimbus Sans L">Similar </tspan><tspan
+         sodipodi:role="line"
+         x="336.97198"
+         y="503.51254"
+         style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;font-family:Nimbus Sans L;-inkscape-font-specification:Nimbus Sans L"
+         id="tspan2934">word order and grammar</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.79796553;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 235.49529,413.51256 c 204.30531,0 204.30531,0 204.30531,0"
+       id="path3597-8-4-3-2" />
+    <text
+       xml:space="preserve"
+       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Nimbus Sans L;-inkscape-font-specification:Nimbus Sans L"
+       x="336.95599"
+       y="360.79825"
+       id="text3593-8-6-4"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3595-9-6-9"
+         x="336.95599"
+         y="360.79825"
+         style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;font-family:Nimbus Sans L;-inkscape-font-specification:Nimbus Sans L">Similar</tspan><tspan
+         sodipodi:role="line"
+         x="339.17474"
+         y="380.79825"
+         style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;font-family:Nimbus Sans L;-inkscape-font-specification:Nimbus Sans L"
+         id="tspan2938">Abstract </tspan><tspan
+         sodipodi:role="line"
+         x="336.95599"
+         y="400.79825"
+         style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;font-family:Nimbus Sans L;-inkscape-font-specification:Nimbus Sans L"
+         id="tspan2940">Meanings</tspan></text>
+    <g
+       transform="matrix(0.78859857,0.61490835,-0.61490835,0.78859857,317.95872,51.017301)"
+       id="g3458">
+      <g
+         id="g3723"
+         transform="matrix(0.99977,-0.02144606,0.02144606,0.99977,17.199487,-10.073312)">
+        <path
+           style="fill:none;stroke:#000000;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:none;marker-mid:none;marker-end:url(#Arrow2Mend)"
+           d="m 103.39286,499.76257 0,-195"
+           id="path2948-1" />
+        <text
+           xml:space="preserve"
+           style="font-size:37.33312988px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Nimbus Sans L;-inkscape-font-specification:Nimbus Sans L"
+           x="-434.09012"
+           y="91.757439"
+           id="text3593-2-8"
+           transform="matrix(0,-1,1,0,0,0)"><tspan
+             sodipodi:role="line"
+             id="tspan3595-0-4"
+             x="-434.09012"
+             y="91.757439"
+             style="font-size:12px">Abstraction</tspan></text>
+      </g>
+      <g
+         id="g3224">
+        <path
+           style="fill:none;stroke:#000000;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:none;marker-mid:none;marker-end:url(#Arrow2Mend)"
+           d="m 283.82804,169.15587 188.59334,49.57374"
+           id="path2948-1-6"
+           inkscape:connector-curvature="0" />
+        <text
+           transform="matrix(0.976186,0.21693522,-0.21693522,0.976186,0,0)"
+           xml:space="preserve"
+           style="font-size:37.33312988px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Nimbus Sans L;-inkscape-font-specification:Nimbus Sans L"
+           x="386.0477"
+           y="95.898102"
+           id="text3593-2-8-8"><tspan
+             sodipodi:role="line"
+             id="tspan3595-0-4-9"
+             x="386.0477"
+             y="95.898102"
+             style="font-size:12px">Concreteness</tspan></text>
+      </g>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Nimbus Sans L;-inkscape-font-specification:Nimbus Sans L"
+       x="336.86273"
+       y="543.76257"
+       id="text3593-2"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="336.86273"
+         y="543.76257"
+         style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;font-family:Nimbus Sans L;-inkscape-font-specification:Nimbus Sans L"
+         id="tspan3068">Similar concepts and grammar</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Nimbus Sans L;-inkscape-font-specification:Nimbus Sans L"
+       x="337.10797"
+       y="431.76257"
+       id="text3593-8-6"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="337.10797"
+         y="431.76257"
+         style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;font-family:Nimbus Sans L;-inkscape-font-specification:Nimbus Sans L"
+         id="tspan2936" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Nimbus Sans L;-inkscape-font-specification:Nimbus Sans L"
+       x="337.15598"
+       y="641.76257"
+       id="text3593"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3595"
+         x="337.15598"
+         y="641.76257"
+         style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;font-family:Nimbus Sans L;-inkscape-font-specification:Nimbus Sans L">Words and concepts equivalent, grammar and word order same</tspan></text>
+    <path
+       sodipodi:type="arc"
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.78600001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path2859"
+       sodipodi:cx="-171.78571"
+       sodipodi:cy="193.01506"
+       sodipodi:rx="8.2142859"
+       sodipodi:ry="8.2142859"
+       d="m -163.57142,193.01506 c 0,4.53663 -3.67766,8.21429 -8.21429,8.21429 -4.53662,0 -8.21428,-3.67766 -8.21428,-8.21429 0,-4.53662 3.67766,-8.21429 8.21428,-8.21429 4.53663,0 8.21429,3.67767 8.21429,8.21429 z"
+       transform="translate(226.25,465.67608)" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.78600001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path2859-8"
+       sodipodi:cx="-171.78571"
+       sodipodi:cy="193.01506"
+       sodipodi:rx="8.2142859"
+       sodipodi:ry="8.2142859"
+       d="m -163.57142,193.01506 c 0,4.53663 -3.67766,8.21429 -8.21429,8.21429 -4.53662,0 -8.21428,-3.67766 -8.21428,-8.21429 0,-4.53662 3.67766,-8.21429 8.21428,-8.21429 4.53663,0 8.21429,3.67767 8.21429,8.21429 z"
+       transform="translate(793.39285,466.74751)" />
+    <text
+       xml:space="preserve"
+       style="font-size:48px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Nimbus Sans L;-inkscape-font-specification:Nimbus Sans L"
+       x="43.39286"
+       y="689.76257"
+       id="text3685"><tspan
+         sodipodi:role="line"
+         id="tspan3687"
+         x="43.39286"
+         y="689.76257"
+         style="font-size:16px">Source </tspan><tspan
+         sodipodi:role="line"
+         x="43.39286"
+         y="709.76257"
+         id="tspan3689"
+         style="font-size:16px">Language</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:48px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Nimbus Sans L;-inkscape-font-specification:Nimbus Sans L"
+       x="633.67413"
+       y="689.76257"
+       id="text3685-4"><tspan
+         sodipodi:role="line"
+         x="638.11163"
+         y="689.76257"
+         id="tspan3689-1"
+         style="font-size:16px;text-align:end;text-anchor:end">Target </tspan><tspan
+         sodipodi:role="line"
+         x="633.67413"
+         y="709.76257"
+         style="font-size:16px;text-align:end;text-anchor:end"
+         id="tspan3721">Language</tspan></text>
+    <g
+       id="g3921"
+       transform="translate(-20.006574,-5.4813432)">
+      <rect
+         y="286.83942"
+         x="64.821434"
+         height="10.714286"
+         width="13.571428"
+         id="rect3802"
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+      <text
+         id="text3835"
+         y="287.76257"
+         x="83.39286"
+         style="font-size:48px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Nimbus Sans L;-inkscape-font-specification:Nimbus Sans L"
+         xml:space="preserve"><tspan
+           id="tspan3070"
+           style="font-size:12px"
+           y="287.76257"
+           x="83.39286"
+           sodipodi:role="line">Linguistic similarities</tspan></text>
+    </g>
+    <g
+       id="g3927"
+       transform="translate(-20.006574,-5.4813432)">
+      <rect
+         y="321.59744"
+         x="64.821434"
+         height="10.714286"
+         width="13.571428"
+         id="rect3802-2"
+         style="fill:#e0e0f3;fill-opacity:1;stroke:#000000;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+      <text
+         id="text3835-4"
+         y="323.76257"
+         x="83.464859"
+         style="font-size:48px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Nimbus Sans L;-inkscape-font-specification:Nimbus Sans L"
+         xml:space="preserve"><tspan
+           id="tspan3875"
+           style="font-size:12px"
+           y="323.76257"
+           x="83.464859"
+           sodipodi:role="line">Meaning similarities</tspan></text>
+    </g>
+    <g
+       id="g3933"
+       transform="translate(-20.006574,-5.4813432)">
+      <rect
+         y="357.76743"
+         x="64.821434"
+         height="10.714286"
+         width="13.571428"
+         id="rect3802-6"
+         style="fill:#f3ebe0;fill-opacity:1;stroke:#000000;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+      <text
+         id="text3835-4-0"
+         y="358.76257"
+         x="83.344864"
+         style="font-size:48px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Nimbus Sans L;-inkscape-font-specification:Nimbus Sans L"
+         xml:space="preserve"><tspan
+           id="tspan3102"
+           style="font-size:12px"
+           y="358.76257"
+           x="83.344864"
+           sodipodi:role="line">Word-level similarities </tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Nimbus Sans L;-inkscape-font-specification:Nimbus Sans L"
+       x="336.8461"
+       y="435.13058"
+       id="text3593-2-1"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="339.06485"
+         y="435.13058"
+         style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;font-family:Nimbus Sans L;-inkscape-font-specification:Nimbus Sans L"
+         id="tspan3068-7">Similar concepts. </tspan><tspan
+         sodipodi:role="line"
+         x="339.06485"
+         y="455.13058"
+         style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;font-family:Nimbus Sans L;-inkscape-font-specification:Nimbus Sans L"
+         id="tspan3104">Different grammar  </tspan></text>
+  </g>
+</svg>

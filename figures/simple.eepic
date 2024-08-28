@@ -1,0 +1,25 @@
+\setlength{\unitlength}{0.00083333in}
+%
+\begingroup\makeatletter\ifx\SetFigFont\undefined%
+\gdef\SetFigFont#1#2#3#4#5{%
+  \reset@font\fontsize{#1}{#2pt}%
+  \fontfamily{#3}\fontseries{#4}\fontshape{#5}%
+  \selectfont}%
+\fi\endgroup%
+{\renewcommand{\dashlinestretch}{30}
+\begin{picture}(2553,1432)(0,-10)
+\put(1215,577){\makebox(0,0)[lb]{{\SetFigFont{12}{14.4}{\rmdefault}{\mddefault}{\updefault}Substitute y for x}}}
+\put(1575,1057){\ellipse{300}{300}}
+\put(675,1057){\ellipse{300}{300}}
+\put(1575,157){\ellipse{300}{300}}
+\path(825,1057)(1425,1057)
+\blacken\path(1305.000,1027.000)(1425.000,1057.000)(1305.000,1087.000)(1305.000,1027.000)
+\path(675,907)(675,307)
+\blacken\path(645.000,427.000)(675.000,307.000)(705.000,427.000)(645.000,427.000)
+\path(802,930)(1477,255)
+\blacken\path(1370.934,318.640)(1477.000,255.000)(1413.360,361.066)(1370.934,318.640)
+\put(0,607){\makebox(0,0)[lb]{{\SetFigFont{12}{14.4}{\rmdefault}{\mddefault}{\updefault}Insert y}}}
+\put(825,1282){\makebox(0,0)[lb]{{\SetFigFont{12}{14.4}{\rmdefault}{\mddefault}{\updefault}Delete x}}}
+\put(675,157){\ellipse{300}{300}}
+\end{picture}
+}
